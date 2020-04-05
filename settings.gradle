@@ -1,0 +1,2 @@
+rootProject.name='Filter-a-RecyclerView-with-SearchView'
+include ':app'
